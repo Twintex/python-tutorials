@@ -1,0 +1,2 @@
+destination = 'paris'
+print(destination)

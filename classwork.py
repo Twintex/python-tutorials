@@ -1,0 +1,2 @@
+name = 'rice'
+print(name)
